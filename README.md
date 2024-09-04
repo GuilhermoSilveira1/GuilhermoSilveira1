@@ -16,6 +16,11 @@
 
 - 🔭 I’m currently an intern at CNH.
 - 🌱 I’m currently learning React.
+- 📚 I like working with Java and MySQL
+
+---
+
+### Hobbyes 🌟
 - 📚 I love to read.
 - 🏋️ I enjoy exercising.
 - 🎮 I like playing video games.

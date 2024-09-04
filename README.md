@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Guilhermo Silveira! 👋
 
-<!--
-**GuilhermoSilveira1/GuilhermoSilveira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B50&width=435&lines=I+am+a+Software+Engineering+student!;I+am+currently+studying%3A+React!;I+enjoy+learning+new+technologies+and+building+cool+projects!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me 📫
+
+- **Email:** guilhermosilveira@gmail.com
+- **Phone:** +55 (41) 997622611
+- **[LinkedIn](https://www.linkedin.com/in/guilhermo-silveira-9a635522b/)**
+
+---
+
+### A Little About Me 🌟
+
+- 🔭 I’m currently an intern at CNH.
+- 🌱 I’m currently learning React.
+- 📚 I love to read.
+- 🏋️ I enjoy exercising.
+- 🎮 I like playing video games.
+
+---
+
+Feel free to reach out if you want to connect or collaborate!

@@ -6,9 +6,9 @@
 
 ### Contact Me 📫
 
-- **Email:** guilhermosilveira@gmail.com
-- **Phone:** +55 (41) 997622611
-- **[LinkedIn](https://www.linkedin.com/in/guilhermo-silveira-9a635522b/)**
+- 📧 guilhermosilveira@gmail.com
+- 📱 +55 (41) 997622611
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/guilhermo-silveira-9a635522b/)** 
 
 ---
 
@@ -23,3 +23,4 @@
 ---
 
 Feel free to reach out if you want to connect or collaborate!
+

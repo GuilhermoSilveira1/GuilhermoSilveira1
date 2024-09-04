@@ -1,6 +1,6 @@
 # Hello, I'm Guilhermo Silveira! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B50&width=435&lines=I+am+a+Software+Engineering+student!;I+am+currently+studying%3A+React!;I+enjoy+learning+new+technologies+and+building+cool+projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B50&width=435&lines=I+am+a+Software+Engineering+student!;I+am+currently+studying%3A+React!;I+enjoy+learning+new+technologies!)](https://git.io/typing-svg)
 
 ---
 

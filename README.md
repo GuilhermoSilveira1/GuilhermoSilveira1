@@ -20,7 +20,7 @@
 
 ---
 
-### Hobbyes 🌟
+### Hobbies 🌟
 - 📚 I love to read.
 - 🏋️ I enjoy exercising.
 - 🎮 I like playing video games.

@@ -15,7 +15,7 @@
 ### A Little About Me 🌟
 
 - 🔭 I’m currently an intern at CNH.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Selenium with Python.
 - 📚 I like working with Java and MySQL
 
 ---
